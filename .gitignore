@@ -1,0 +1,56 @@
+# Dependency directories
+node_modules/
+/dist/
+/.npm/
+/.yarn/
+/yarn.lock
+
+# Build artifacts
+*.js.map
+*.css
+*.css.map
+*.ico
+*.svg
+*.woff
+*.woff2
+*.eot
+*.ttf
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.suo
+*.user
+*.bak
+
+# Logs and debugging files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment configuration
+.env
+.env.local
+.env.*.local
+
+# Vue CLI default output directory
+/dist/
+
+# .NET specific files and directories
+/bin/
+/obj/
+/*.sln.cache
+
+# .NET user-specific files
+*.userprefs
+*.usertasks
+*.user
+*.pubxml
+*.publishproj
+*.publishsettings

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NQo76Z64yJpzEM9i+4DEqYY/1hsI1I61AqXo8EiwCi6w7ldXBqOkqGOEReLcgM1NktAVfxobeWvFm7XAZtTqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yasma\\source\\repos\\VuePortfolio\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasma\\.nuget\\packages\\harfbuzzsharp\\2.8.2.3\\harfbuzzsharp.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\yasma\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2.3\\harfbuzzsharp.nativeassets.macos.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\yasma\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2.3\\harfbuzzsharp.nativeassets.win32.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\yasma\\.nuget\\packages\\questpdf\\2023.6.0\\questpdf.2023.6.0.nupkg.sha512",
+    "C:\\Users\\yasma\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\yasma\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.3\\skiasharp.harfbuzz.2.88.3.nupkg.sha512",
+    "C:\\Users\\yasma\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\yasma\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
+  "logs": []
+}

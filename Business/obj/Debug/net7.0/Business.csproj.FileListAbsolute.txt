@@ -1,0 +1,12 @@
+C:\Users\yasma\source\repos\VuePortfolio\Business\bin\Debug\net7.0\Business.deps.json
+C:\Users\yasma\source\repos\VuePortfolio\Business\bin\Debug\net7.0\Business.dll
+C:\Users\yasma\source\repos\VuePortfolio\Business\bin\Debug\net7.0\Business.pdb
+C:\Users\yasma\source\repos\VuePortfolio\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\yasma\source\repos\VuePortfolio\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma\source\repos\VuePortfolio\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\yasma\source\repos\VuePortfolio\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\yasma\source\repos\VuePortfolio\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\yasma\source\repos\VuePortfolio\Business\obj\Debug\net7.0\Business.dll
+C:\Users\yasma\source\repos\VuePortfolio\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Users\yasma\source\repos\VuePortfolio\Business\obj\Debug\net7.0\Business.pdb
+C:\Users\yasma\source\repos\VuePortfolio\Business\obj\Debug\net7.0\ref\Business.dll

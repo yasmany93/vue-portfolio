@@ -1,0 +1,2 @@
+C:\Users\yasma\source\repos\VuePortfolio\VueWebApi\vueapp\obj\Debug\vueapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\yasma\source\repos\VuePortfolio\VueWebApi\vueapp\obj\Debug\vueapp.esproj.CoreCompileInputs.cache

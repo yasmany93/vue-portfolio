@@ -1,0 +1,15 @@
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\bin\Debug\net7.0\Entities.dll
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\bin\Debug\net7.0\Entities.pdb
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\yasma\source\repos\VuePortfolio\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
